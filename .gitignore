@@ -5,6 +5,7 @@ myenv/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+app/__pycache__
 
 # Distribution / packaging
 *.egg-info/
